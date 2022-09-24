@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-ssr",
+  "version": "1.0.0",
+  "description": "This project renders frontend html pages in server side using nodejs and ejs template engine",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shalindasuresh/nodejs-ssr.git"
+  },
+  "author": "Shalinda Suresh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shalindasuresh/nodejs-ssr/issues"
+  },
+  "homepage": "https://github.com/shalindasuresh/nodejs-ssr#readme",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.1"
+  }
+}
